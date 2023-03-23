@@ -95,6 +95,7 @@ WHERE YEAR(JOINED) = '2021'  AND AGE BETWEEN 20 AND 29
 
 외우자 BETWEEN 시작 AND 끝
 
-
+기록해두고 외워야되는 문제들만 적고 이 외로도 몇개 더 풀었다
+오늘 공부 끝~!
 
 
